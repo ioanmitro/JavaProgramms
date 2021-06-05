@@ -1,3 +1,3 @@
 # JavaProgramms
 
-Java mini projects for data structures algorithms
+Java mini projects for data structures and algorithms 
